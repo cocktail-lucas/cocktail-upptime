@@ -20,8 +20,10 @@ status-website:
   baseUrl: /cocktail-upptime
   logoUrl: https://alpha.cocktailfunding.com/static/media/logo.e1cc5d9d.png
   name: Cocktailfunding Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: 🍹Cocktailfunding 상태 모니터링
+  introMessage : v2, alpha 모니터링중 ... 지속 추가 예정입니다.
+#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Cocktailfunding
       href: https://v2.cocktailfunding.com
