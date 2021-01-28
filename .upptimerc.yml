@@ -10,6 +10,8 @@ sites:
     url: https://v2.cocktailfunding.com/
   - name: cocktail alpha
     url: https://alpha.cocktailfunding.com/
+  - name: cocktilfunding.co.kr
+    url: https://www.cocktilfunding.co.kr/
   - name: Secret Site
     url: $SECRET_SITE
 
